@@ -98,10 +98,10 @@ Fashion-MNIST is loaded directly through TensorFlow/Keras, so no separate datase
 
 The final neural network architecture used for the Fashion-MNIST classification task is shown below.
 
-![Final Model Architecture](model.png)
+![Final Model Architecture](results/model.png)
 
 ### Confusion Matrix
 
 The confusion matrix below shows the classification performance of the final model across the 10 Fashion-MNIST classes.
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix.png)
